@@ -1,4 +1,4 @@
-package Intro;
+package introJava;
 
 public class multiplicacao {
 	public static void main(String[] args) {

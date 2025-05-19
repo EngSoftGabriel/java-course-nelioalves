@@ -1,4 +1,4 @@
-package Intro;
+package introJava;
 
 public class resultadoCasting {
 
